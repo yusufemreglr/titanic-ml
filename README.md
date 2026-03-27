@@ -59,7 +59,7 @@ hayatta_kalir_miydin(cinsiyet="male", yas=22, sinif=3, ucret=8)
 # ❌ NE YAZIK... Hayatta kalma olasılığın: %1.0
 
 hayatta_kalir_miydin(cinsiyet="female", yas=22, sinif=1, ucret=100)
-# ✅ HAYATTASINكان! Hayatta kalma olasılığın: %100.0
+# ✅ HAYATTASINIZ! Hayatta kalma olasılığın: %100.0
 ```
 
 ## 🛠️ Tech Stack
